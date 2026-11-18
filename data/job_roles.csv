@@ -1,0 +1,7 @@
+﻿job_role,required_skills
+Data Scientist,"Python,Pandas,NumPy,SQL,Machine Learning,Statistics,Matplotlib,Seaborn,Scikit-learn,Deep Learning,TensorFlow,PyTorch,Data Cleaning,Exploratory Data Analysis,Feature Engineering,Data Visualization,Probability,Linear Algebra,Model Evaluation,NLP,Git,GitHub"
+Machine Learning Engineer,"Python,NumPy,Pandas,Scikit-learn,Machine Learning,Deep Learning,TensorFlow,PyTorch,Statistics,Linear Algebra,Calculus,Feature Engineering,Model Evaluation,Hyperparameter Tuning,Neural Networks,CNN,RNN,Transformers,Git,GitHub,Docker,FastAPI,MLflow,Model Deployment"
+AI Engineer,"Python,Machine Learning,Deep Learning,TensorFlow,PyTorch,NLP,LLM,RAG,Generative AI,Prompt Engineering,Transformers,LangChain,Vector Databases,Embeddings,FAISS,API Development,FastAPI,Git,GitHub,Docker,Model Deployment,AI Agents"
+Data Analyst,"Python,Pandas,NumPy,SQL,Statistics,Excel,Power BI,Tableau,Matplotlib,Seaborn,Data Cleaning,Exploratory Data Analysis,Data Visualization,Dashboard Development,DAX,Data Reporting,Probability"
+Python Developer,"Python,Git,GitHub,Flask,Django,SQL,Docker,REST API,FastAPI,JSON,Unit Testing,Debugging,Data Structures,Algorithms,PostgreSQL,MySQL"
+Web Developer,"HTML,CSS,JavaScript,React,Git,GitHub,Bootstrap,Responsive Design,REST API,Node.js,Express.js,MongoDB,SQL,TypeScript,Web Security"

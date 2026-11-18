@@ -1,0 +1,30 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Uploaded documents
+documents/
+
+# Temporary files
+*.log
+*.tmp
+data/test.txt
+data/job_roles_backup.csv
+
+# Model and vector database files
+*.faiss
+*.pkl
+
+# VS Code
+.vscode/
